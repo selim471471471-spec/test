@@ -1,1 +1,5 @@
-git dersleri git ögrenmeye calisiyorum.
+git dersleri git ögrenmeye calisiyorum
+
+Diff dersleri
+
+.
