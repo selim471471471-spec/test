@@ -1,1 +1,3 @@
+
 git diff komutu kullanmayı ogreniyorum.
+Bir problem var cozmeye calsisiyorum
